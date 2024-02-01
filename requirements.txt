@@ -1,0 +1,4 @@
+flask==3.0.0
+PyP100 @ git+https://github.com/almottier/TapoP100.git@35c3d383ad595505941e8bc10c80ea8903077fdd
+python-dotenv==1.0.1
+
